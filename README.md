@@ -23,6 +23,7 @@ Calm under pressure, disciplined in design, and endlessly curious about improvem
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![AI Automation](https://img.shields.io/badge/AI%20Automation-20232A?style=flat&logo=openai&logoColor=white)
 
+
 > *Currently focusing on scalable AI workflows, automation pipelines, and system reliability.*
 
 ---
