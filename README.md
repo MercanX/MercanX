@@ -1,5 +1,5 @@
 
-```md
+
 # 👋 Hi, I'm **Ali Fuat Mercan (MercanX)**
 ### Full-stack architect | System designer | AI & process automation builder
 > Kaosu analiz eder, sistem kurar, süreçleri öğretir.  
@@ -43,5 +43,5 @@ Calm under pressure, disciplined in design, and endlessly curious about improvem
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Fuat%20Mercan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ali-fuat-mercan/)
 [![GitHub](https://img.shields.io/badge/GitHub-MercanX-black?style=flat&logo=github)](https://github.com/MercanX)
-```
+
 
