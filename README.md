@@ -28,12 +28,6 @@ Calm under pressure, disciplined in design, and endlessly curious about improvem
 
 ---
 
-### ⚙️ Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MercanX&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MercanX&layout=compact&theme=tokyonight&count_private=true)
-
----
-
 ### 🧩 Philosophy
 > Kaosun içinde düzen aramam;  
 > düzenin içinde gelişim fırsatı ararım.
